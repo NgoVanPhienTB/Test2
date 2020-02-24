@@ -1,0 +1,11 @@
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\bin\Debug\Test1.exe
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\bin\Debug\Test1.pdb
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.Form1.resources
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.exe
+c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\PhienNgo\Documents\Visual Studio 2015\Projects\Test1\Test1\obj\Debug\Test1.Form2.resources
+C:\Users\PhienNgo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.Form3.resources
