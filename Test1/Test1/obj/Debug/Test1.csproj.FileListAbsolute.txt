@@ -9,3 +9,6 @@ c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Te
 c:\users\phienngo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.pdb
 C:\Users\PhienNgo\Documents\Visual Studio 2015\Projects\Test1\Test1\obj\Debug\Test1.Form2.resources
 C:\Users\PhienNgo\documents\visual studio 2015\Projects\Test1\Test1\obj\Debug\Test1.Form3.resources
+C:\Users\PhienNgo\OneDrive\Máy tính\MTA\Test2\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\PhienNgo\OneDrive\Máy tính\MTA\Test2\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\PhienNgo\OneDrive\Máy tính\MTA\Test2\Test1\Test1\obj\Debug\Test1.pdb
